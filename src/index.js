@@ -5,7 +5,7 @@ import React from 'react';
 import ReactDOM from 'react-dom'; 
 import './index.css';
 // If it doesn't have ending for the type of file, we assume it is js.
-import App from "./App";
+import App from "./containers/App";
 import reportWebVitals from './reportWebVitals';
 // To use the tachyons package, to have access to predefined classes for styling.
 import "tachyons";
